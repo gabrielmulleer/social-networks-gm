@@ -3,4 +3,10 @@
 :root {
     --verde: #006466;
     --azul: #01161E;
+    --azul90: #1B2E35;
+}
+
+.vibrate-1 {
+    -webkit-animation: vibrate-1 2s linear infinite both;
+    animation: vibrate-1 2s linear infinite both;
 }
